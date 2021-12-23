@@ -5,12 +5,12 @@ Assignment is to deliver a summary dataframe and and multiple line plot that dis
 ## Analysis Results
  ![](summary_df.png)
  
+
+ ![](Pyber_fare_summary.png)
  The industry is still mostly an urban and suburban phenomenon. However while rural ride count is small, the average fares are larger. 
  
- 
- ![](Pyber_fare_summary.png)
+## Reccomendations
+1. More study should occur into the rural rideshare as that segment displays higher average fares than urban or suburban trips. 
+2. Can we get more data about inter-market trips - for instance how many trips originated in a different market than the destination and how is that classified? The ride data is sectionalized it's hard to see the relationship between urban, rural, suburban rideshares.  
+3. There are different trends from mid-April on - why is there a levelling off of urban, rural rides while suburban fare total increases? What's affecting demand in these locales?
 
-## Election Audit Summary
-The script here can be re-purposed and used across the state in other elections or based on changes to the data tracked in the elections report.
-1. Statistics can be tabulated for other geographical areas (i.e. precincts, census blocks) if that data is ever appended to the source dataset schema.
-2. Determinations as to winning candidate, winning percentage could be modifed in cases where the winning threshold changes or is more dyanmic for elections that use a ranked choice method to determine the victor.
