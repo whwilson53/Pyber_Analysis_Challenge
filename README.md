@@ -2,10 +2,10 @@
 ## Overview
 Assignment is to deliver a summary dataframe and and multiple line plot that displays totals and averages across city classes.  
 
-## Election Audit Results
+## Analysis Results
  ![](summary_df.png)
  
- 
+ The industry is still mostly an urban and suburban phenomenon. However while rural ride count is small, the average fares are larger. 
  
  
  ![](Pyber_fare_summary.png)
